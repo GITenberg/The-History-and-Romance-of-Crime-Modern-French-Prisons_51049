@@ -1,4 +1,8 @@
 _repo: The-History-and-Romance-of-Crime-Modern-French-Prisons_51049
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 51049-h/images/cover.jpg
 creator:
   author:
     agent_name: Griffiths, Arthur
@@ -8,6 +12,8 @@ creator:
     gutenberg_agent_id: '3987'
     url: http://www.gutenberg.org/2009/agents/3987
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51049#The-History-and-Romance-of-Crime-Modern-French-Prisons
 gutenberg_issued: '2016-01-27'
 gutenberg_type: Text
 identifiers:
